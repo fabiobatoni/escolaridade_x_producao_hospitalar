@@ -17,6 +17,8 @@ O filtro por ano/mes atendimento foi selecionado, para usarmos dados que corresp
 Após a importação e limpeza dos bancos de dados utilizados, foram feitos gráficos comparando os valores desejados.
 
 # Conclusão
-A análise realizada é somente inicial e incapaz de gerar conclusões concretas. Com isso em mente, parece haver uma relação entre a renda per capita de um estado e sua proporção de internações públicas e não públicas. Além disso, os gastos por internação pública tendem a ser menores do que por internação não pública.
+Será que o Estado que possui maior escolaridade , gasta mais, por irem mais vezes aos hospitais por conta da informação ou gastam menos por saberem se prevenir de doenças, assim evitando a ida ao hospital ?
 
-Muito obrigado por ver meu projeto!
+Minha Hipótese seria que o estado que possui maior grau de escolaridade gastaria menos que outro que possui menor.
+
+Porém analisando o estados da Região do Nordeste que possui taxa populacional parecidas, não é possível obter essa conclusão.

@@ -4,7 +4,7 @@ Projeto Módulo 1 - BootCamp Data Science Aplicada da Alura
 ![image](https://user-images.githubusercontent.com/57717982/141686944-37855357-41e1-451a-a868-07d370f98504.png)
 
 # O projeto
-Olá! Este projeto tem o intuito de comparar os dados de Produção hospitalares e dados de Escolaridade dos estados
+Olá! Este projeto tem o intuito de comparar os dados de Produção hospitalar e dados de Escolaridade dos estados
 
 # Pergunta 
 

@@ -17,6 +17,8 @@ Para a separação entre estes escopos, foi utilizado o filtro de Procedimento h
 
 foi utilizado o filtro de Escolaridade da população de 15 anos ou mais - Brasil, Periodo de 2010.
 
+Para comparação foi utilizado 4 estados da região do Nordeste, onde possuem o taxa populacional equivalentes
+
 # Como foi feito
 Após a importação e limpeza dos bancos de dados utilizados, foram feitos gráficos comparando os valores desejados.
 

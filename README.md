@@ -4,7 +4,7 @@ Projeto Módulo 1 - BootCamp Data Science Aplicada da Alura
 ![image](https://user-images.githubusercontent.com/57717982/141686944-37855357-41e1-451a-a868-07d370f98504.png)
 
 # O projeto
-Olá! Este projeto tem o intuito de tentar entender se quanto maior o grau de escolaridade no estado menos gasto com hospitais.
+Olá! Este projeto tem o intuito de comparar os dados de Produção hospitalares e dados de Escolaridade dos estados
 
 # Pergunta 
 
@@ -13,9 +13,9 @@ Será que o Estado que possui maior escolaridade , gasta mais, por irem mais vez
 # Os dados
 Os dados analisados foram retiados do tabnet, sistema do DATASUS que disponibiliza dados de saúde do Brasil. Comparei os gastos de produção hospitalares com o Censo 2010 sobre escolaridade.
 
-Para a separação entre estes escopos, foi utilizado o filtro de Naturezas Jurídicas, no próprio tabnet. No escopo Público, foram selecionadas todas as entidades de admnistração pública. Já no Não Público, foram selecionadas todas as outras entidades, sendo elas empresariais, sem fim lucrativo, pessoas físicas e instituições extraterritoriais.
+Para a separação entre estes escopos, foi utilizado o filtro de Procedimento hosptalares do SUS, no próprio tabnet. Na linha Unidade de Federação, Coluna Ano/Mês de Atendimento e no Conteúdo Valor Total, na analise foi selecionado apenas o ano de 2010.
 
-O filtro por ano/mes atendimento foi selecionado, para usarmos dados que correspondessem melhor a data em que os procedimentos foram realizados. Por isso, não incluí os dados de 2021, posto que, como ainda há atendimentos que não foram processados, eles não são tão confiáveis. Utilizei dados a partir de 2015, pois antes disso, havia dados faltando.
+foi utilizado o filtro de Escolaridade da população de 15 anos ou mais - Brasil, Periodo de 2010.
 
 # Como foi feito
 Após a importação e limpeza dos bancos de dados utilizados, foram feitos gráficos comparando os valores desejados.
